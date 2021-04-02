@@ -635,7 +635,7 @@ footer {
     margin: 30px;
   }
   .normalized-img {
-    max-width: 90%;
+    max-width: 30%;
   }
   #curso img {
     padding-top: 70px;
@@ -696,6 +696,12 @@ footer {
   }
   #sobre1 h1 {
     font-size: 1.3em;
+  }
+  #sobre1 p {
+    font-size: 1.3em;
+    margin: 8%;
+    text-align: center;
+    font-family: Museo700;
   }
   #sobre3 p {
     color: #4d4d4d;;
